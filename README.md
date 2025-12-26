@@ -65,8 +65,8 @@ To test the application, follow these steps:
 
 📸 Screenshots
 ================
-[Image of the dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf0edff4-ad5c-4a68-bd25-bd8b06cc2943" />)
-[Image of the API endpoint](<img width="1915" height="165" alt="Screenshot 2025-12-26 183603" src="https://github.com/user-attachments/assets/e28095f7-8aab-4d78-b30c-19da08f7379d" />)
+[Image of the dashboard] (<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf0edff4-ad5c-4a68-bd25-bd8b06cc2943" />)
+[Image of the API endpoint] (<img width="1915" height="165" alt="Screenshot 2025-12-26 183603" src="https://github.com/user-attachments/assets/e28095f7-8aab-4d78-b30c-19da08f7379d" />)
 
 📦 API Reference
 ================
