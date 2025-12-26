@@ -106,7 +106,3 @@ curl -X GET http://localhost:8000/predict/
 👤 Author
 ================
 The Price Forecast Dashboard was developed by [Tuhin Kumar Singha Roy](https://github.com/Tuhin108).
-
-📝 License
-================
-The Price Forecast Dashboard is licensed under the [MIT License](https://opensource.org/licenses/MIT).
